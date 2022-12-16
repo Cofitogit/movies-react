@@ -5,6 +5,11 @@
     font-size: 1.5rem;
 }
 
+.MovieCard:hover {
+    transform: scale(1.12);
+    transition: all 0.4s;
+}
+
 .MovieImg {
     border-radius: 10px;
     background-color: white;
